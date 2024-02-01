@@ -6,7 +6,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(10, 10, 10, 0.9);
+    background-color: rgba(10, 10, 10, 1);
+    background-color: transparent transparent;
+
     height: 10vh;
     transition: all 0.5s;
     transition-timing-function: ease-in;
